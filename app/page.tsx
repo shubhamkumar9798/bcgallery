@@ -47,7 +47,7 @@ export default function BuildClubMemory() {
       {/* Video Section */}
       <section className="px-4 mb-12 relative w-full max-w-md mx-auto">
         <div className="relative rounded-[2rem] overflow-hidden shadow-[0_8px_30px_rgb(0,0,0,0.08)] border-[6px] border-white bg-white">
-          <video
+          {/* <video
             autoPlay
             loop
             muted
@@ -55,10 +55,10 @@ export default function BuildClubMemory() {
             className="w-full h-auto object-cover aspect-[4/5] bg-gray-100"
           >
             <source src="/build-club-intro.mp4" type="video/mp4" />
-          </video>
+          </video> */}
         </div>
         <div className="text-center mt-4">
-          <p className="text-sm italic text-gray-400">Where it all started 🚀</p>
+          {/* <p className="text-sm italic text-gray-400">Where it all started 🚀</p> */}
         </div>
       </section>
 
